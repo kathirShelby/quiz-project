@@ -73,7 +73,7 @@ body{
 
 .answer-btn.correct{
     background-color: green;
-    border-color: blue;
+    border-color: white;
     color: greenyellow;
 }
 .answer-btn.incorrect{
